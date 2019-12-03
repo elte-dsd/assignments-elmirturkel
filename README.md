@@ -1,8 +1,11 @@
 # assignments-elmirturkel
 
 Name: Elmir Guliyev
+
 Neptune code: HVABRZ
+
 Course name: Stream mining
+
 Method name: Sleeping experts
 
 Colab link: https://colab.research.google.com/drive/1nuds91DU34IO5TzKyTTdKI6t514mangQ
